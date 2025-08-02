@@ -30,7 +30,7 @@ Este repositorio documenta mi participación técnica en el desarrollo de los si
 
 - Arquitecto/Desarrollador full-stack 
 - Validación documental y lógica de flujo del trámite por roles
-- Diseño de pruebas unitarias y pruebas funcionales (Postman / Swagger)
+- Diseño de pruebas unitarias y pruebas funcionales (Postman)
 
 ---
 
@@ -73,5 +73,5 @@ Este repositorio es **privado** y no contiene código fuente ni información sen
 
 ## 📬 Contacto
 
-👨‍💻 Enterprise Solutions Architect: Eduardo Bustillos  
+👨‍💻 Eduardo Bustillos A.  
 [💼 LinkedIn](https://linkedin.com/in/eduardobustillos)  
