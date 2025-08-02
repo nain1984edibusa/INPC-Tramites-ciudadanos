@@ -67,7 +67,7 @@ El módulo se diseñó con un enfoque de arquitectura en capas:
 
 ## 🔒 Nota de confidencialidad
 
-Este repositorio es **privado** y no contiene código fuente ni información sensible. Su uso está destinado únicamente como evidencia profesional verificable.
+> Este repositorio es **privado** y no contiene código fuente ni información sensible. Su uso está destinado únicamente como evidencia profesional verificable.
 ---
 
 ## 📬 Contacto
